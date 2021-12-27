@@ -4,6 +4,10 @@ import lombok.Data;
 
 import java.util.ArrayList;
 
+/**
+ * @author Oki-Peter
+ */
+
 @Data
 public class responseDto {
 
