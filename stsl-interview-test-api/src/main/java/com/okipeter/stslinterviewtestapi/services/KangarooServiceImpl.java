@@ -7,6 +7,10 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.ArrayList;
 
+/**
+ * @author Oki-Peter
+ */
+
 @Service
 @Transactional
 public class KangarooServiceImpl implements KangarooService {

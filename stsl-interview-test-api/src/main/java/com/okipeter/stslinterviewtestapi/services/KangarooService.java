@@ -6,6 +6,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 
+
+/**
+ * @author Oki-Peter
+ */
+
 public interface KangarooService {
 
     Boolean checkIfPossible(requestDto req);
